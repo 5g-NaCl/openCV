@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Coding\opencv\opencv460\include\opencv2\imgcodecs.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“源.cpp”)
+  
+  TACG2.vcxproj -> C:\Coding\Visual Studio\VS项目\TACG2\x64\Debug\TACG2.exe
